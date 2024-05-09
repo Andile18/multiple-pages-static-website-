@@ -20,3 +20,12 @@ p {
     text-align: center;
     font-size: 15px;
 }
+
+
+
+img{ 
+    padding: 12px;
+    margin: 12px;
+    border-radius: 10px;
+
+}
